@@ -11,6 +11,11 @@ Somewhat of a final product:
 
 ![NPV_idea](./img/npv.png)
 
+On Running on Raspberry Pi 3 Model B Rev 1.2
+Tested also on Raspberry Pi 4
+
+![RPI Test](./img/RPI_test.jpg)
+
 # To do
 
 - [x] Display Network info.  
@@ -21,5 +26,5 @@ Somewhat of a final product:
 ## Needed Improvements
 
 - [x] Display current working system.  
-- [ ] Resize - fit content within the [Adafruit 2.8" TFT Display](https://learn.adafruit.com/adafruit-2-8-tft-touch-shield-v2)  
-- [ ] Display Network info for either when Lan or WLAN is connected with the correct IP.  
+- [x] Resize - fit content within the [Adafruit 2.8" TFT Display](https://learn.adafruit.com/adafruit-2-8-tft-touch-shield-v2)  
+- [x] Display Network info for either when Ethernet or WLAN is connected with the correct IP.  
